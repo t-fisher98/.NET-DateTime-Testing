@@ -1,0 +1,15 @@
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\bin\Debug\net6.0\DateTime Testing.exe
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\bin\Debug\net6.0\DateTime Testing.deps.json
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\bin\Debug\net6.0\DateTime Testing.runtimeconfig.json
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\bin\Debug\net6.0\DateTime Testing.dll
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\bin\Debug\net6.0\DateTime Testing.pdb
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\DateTime Testing.csproj.AssemblyReference.cache
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\DateTime Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\DateTime Testing.AssemblyInfoInputs.cache
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\DateTime Testing.AssemblyInfo.cs
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\DateTime Testing.csproj.CoreCompileInputs.cache
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\DateTime Testing.dll
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\refint\DateTime Testing.dll
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\DateTime Testing.pdb
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\DateTime Testing.genruntimeconfig.cache
+D:\School\Winter 2022\DMIT-2018\DateTime Testing\DateTime Testing\DateTime Testing\obj\Debug\net6.0\ref\DateTime Testing.dll
